@@ -1,0 +1,153 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "7d957a4948cfe27c91ec137f6a6e2988",
+  "translation_date": "2025-12-19T12:11:33+00:00",
+  "source_file": "README.md",
+  "language_code": "my"
+}
+-->
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
+
+### 🌐 ဘာသာစကားများ အထောက်အပံ့
+
+#### GitHub Action မှတဆင့် ထောက်ပံ့ထားသည် (အလိုအလျောက်နှင့် အမြဲနောက်ဆုံးပေါ်)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](./README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+**သင့်အနေဖြင့် ထပ်မံဘာသာပြန်လိုသော ဘာသာစကားများကို [ဒီမှာ](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md) တွေ့နိုင်ပါသည်။**
+
+#### ကျွန်ုပ်တို့၏ အသိုင်းအဝိုင်းနှင့် ပူးပေါင်းပါ 
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+# 🚀 Cybersecurity for Beginners – သင်ရိုးညွှန်းတမ်း
+
+AI နည်းပညာအသုံးပြုမှု အရှိန်မြင့်လာသော ယနေ့ခေတ်တွင် IT စနစ်များကို ဘေးကင်းလုံခြုံစွာ ထိန်းသိမ်းနိုင်ရန် နားလည်မှုမှာ အလွန်အရေးကြီးပါသည်။ ဒီသင်တန်းကို သင့်လုံခြုံရေး သင်ယူမှုကို စတင်ရန် အခြေခံ Cybersecurity အကြောင်းအရာများကို သင်ကြားပေးရန် ရည်ရွယ်ထားပါသည်။ Vendor အပေါ်မူတည်မှုမရှိဘဲ သင်ခန်းစာတိုတိုများအဖြစ် ခွဲခြားထားပြီး သင်ခန်းစာတစ်ခုစီကို ၃၀-၆၀ မိနစ်ခန့်အတွင်း ပြီးမြောက်စေမည်ဖြစ်သည်။ သင်ခန်းစာတစ်ခုစီတွင် မေးခွန်းတိုတစ်ခုနှင့် အကြောင်းအရာကို နက်ရှိုင်းစွာလေ့လာလိုသူများအတွက် ဖတ်ရန် လင့်ခ်များပါဝင်ပါသည်။
+
+![Cybersecurity for Beginners](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.my.jpg)
+
+ဒီသင်တန်းတွင် ပါဝင်သောအရာများ 📚
+
+- 🔐 CIA triad, risks, threats စသည်တို့ကဲ့သို့သော အခြေခံ Cybersecurity အကြောင်းအရာများ
+- 🛡️ Security control ဆိုတာဘာလဲ၊ ဘယ်ပုံစံတွေအနေနဲ့ ရှိနိုင်သလဲဆိုတာ နားလည်ခြင်း
+- 🌐 Zero trust ဆိုတာဘာလဲ၊ ယနေ့ခေတ် Cybersecurity တွင် အရေးကြီးမှု
+- 🔑 Identity, networking, security operations, infrastructure, data security တို့နှင့် ပတ်သက်သော အဓိကအကြောင်းအရာများကို နားလည်ခြင်း
+- 🔧 Security controls များကို အကောင်အထည်ဖော်ရန် အသုံးပြုသော ကိရိယာများ၏ ဥပမာများ
+
+ဒီသင်တန်းတွင် မပါဝင်သောအရာများ 🙅‍♂️
+
+- 🚫 သီးခြား Security tools များကို အသုံးပြုနည်း
+- 🚫 "Hack" လုပ်ခြင်း သို့မဟုတ် Red teaming/offensive security
+- 🚫 သီးခြား Compliance standards များကို လေ့လာခြင်း
+
+[![Watch the video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.my.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+
+ဒီသင်တန်းကို ပြီးမြောက်ပြီးနောက် Microsoft Learn modules များကို ဆက်လက်လေ့လာနိုင်ပါသည်။ ကျွန်ုပ်တို့၏ အကြံပြုချက်မှာ [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) ကို ဆက်လက်လေ့လာရန် ဖြစ်ပါသည်။
+
+နောက်ဆုံးတွင် [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) ကို စဉ်းစားနိုင်ပါသည်။
+
+> 💁 ဒီသင်တန်းနှင့် ပတ်သက်သော အကြံပြုချက်များ သို့မဟုတ် ကျွန်ုပ်တို့ မပါဝင်ထားသော အကြောင်းအရာများအတွက် သင့်ထံမှ အကြောင်းကြားမှုကို ကျွန်ုပ်တို့ ကြိုဆိုပါသည်။
+
+## Modules အကျဉ်းချုပ် 📝 
+| **Module နံပါတ်** | **Module အမည်**                           | **သင်ကြားမည့်အကြောင်းအရာများ**                  | **သင်ယူရမည့်ရည်မှန်းချက်များ**                                                                                          |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [The CIA triad](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Confidentiality, availability, integrity, authenticity, nonrepudiation, privacy စသည်တို့ကို လေ့လာပါ။ |
+| **1.2**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [Common cyber security threats](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | ပုဂ္ဂိုလ်များနှင့် အဖွဲ့အစည်းများကို ကြုံတွေ့ရသော အများဆုံး Cybersecurity အန္တရာယ်များကို လေ့လာပါ။                             |
+| **1.3**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [Understanding risk management](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Risk ကို သုံးသပ်ခြင်းနှင့် နားလည်ခြင်း – impact/likelihood နှင့် controls များကို အကောင်အထည်ဖော်ခြင်း။                                                                                                               | |
+| **1.4**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [Security practices and documentation](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Policies, procedures, standards, regulations/laws တို့အကြား ကွာခြားချက်များကို လေ့လာပါ။                         |
+| **1.5**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [Zero trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Zero trust ဆိုတာဘာလဲ၊ architecture ကို ဘယ်လိုထိခိုက်စေသလဲ၊ Defense in depth ဆိုတာဘာလဲ။                   |
+| **1.6**           | အခြေခံလုံခြုံရေးအကြောင်းအရာများ                   | [The shared responsibility model](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Shared responsibility model ဆိုတာဘာလဲ၊ Cybersecurity ကို ဘယ်လိုထိခိုက်စေသလဲ။                  |
+| **1.7**           | [Module အဆုံးမေးခွန်း](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | Identity & access management အခြေခံအကြောင်းအရာများ | [IAM key concepts](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Principle of least privilege, segregation of duties, IAM သည် Zero trust ကို ဘယ်လိုထောက်ပံ့ပေးသလဲဆိုတာကို လေ့လာပါ။               |
+| **2.2**           | Identity & access management အခြေခံအကြောင်းအရာများ | [IAM zero trust architecture](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | ယနေ့ခေတ် IT ပတ်ဝန်းကျင်များအတွက် Identity သည် perimeter အသစ်ဖြစ်လာပုံနှင့် အန္တရာယ်များကို ဘယ်လိုလျှော့ချပေးနိုင်သည်ကို လေ့လာပါ။          |
+| **2.3**           | Identity & access management အခြေခံအကြောင်းအရာများ | [IAM capabilities](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Identity များကို လုံခြုံစေရန် IAM capabilities နှင့် controls များကို လေ့လာပါ။                                                  |
+| **2.4**           | [Module အဆုံးမေးခွန်း](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | Network security အခြေခံအကြောင်းအရာများ             | [Networking key concepts](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Networking အကြောင်းအရာများ (IP addressing, port numbers, encryption, စသည်တို့) ကို လေ့လာပါ။                                 |
+| **3.2**           | Network security အခြေခံအကြောင်းအရာများ             | [Networking zero trust architecture](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Networking သည် E2E ZT architecture အတွက် ဘယ်လိုထောက်ပံ့ပေးပြီး အန္တရာယ်များကို ဘယ်လိုလျှော့ချပေးနိုင်သည်ကို လေ့လာပါ။                  |
+| **3.3**           | Network security အခြေခံအကြောင်းအရာများ             | [Network security capabilities](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Network security tools – firewalls, WAF, DDoS protection စသည်တို့ကို လေ့လာပါ။                                    |
+| **3.4**           | [Module အဆုံးမေးခွန်း](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | Security operations အခြေခံအကြောင်းအရာများ          | [SecOps key concepts](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Security operations အရေးကြီးမှုနှင့် IT ops teams များနှင့် ဘယ်လိုကွာခြားသည်ကို လေ့လာပါ။                  |
+| **4.2**           | Security operations အခြေခံအကြောင်းအရာများ          | [SecOps zero trust architecture](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | SecOps သည် E2E ZT architecture အတွက် ဘယ်လိုထောက်ပံ့ပေးပြီး အန္တရာယ်များကို ဘယ်လိုလျှော့ချပေးနိုင်သည်ကို လေ့လာပါ။                      |
+| **4.3**           | Security operations အခြေခံအကြောင်းအရာများ          | [SecOps capabilities](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | SecOps tools – SIEM, XDR စသည်တို့ကို လေ့လာပါ။                                                                    |
+| **4.4**           | [Module အဆုံးမေးခွန်း](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | အက်ပလီကေးရှင်းလုံခြုံရေးအခြေခံအချက်များ         | [AppSec အဓိကအကြောင်းအရာများ](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Secure by design, input validation စသည်တို့ကဲ့သို့သော AppSec အကြောင်းအရာများကိုလေ့လာပါ။                                    |
+| **5.2**           | အက်ပလီကေးရှင်းလုံခြုံရေးအခြေခံအချက်များ         | [AppSec စွမ်းရည်များ](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | AppSec tools များအကြောင်းကိုလေ့လာပါ - pipeline security tools, code scanning, secret scanning စသည်တို့။                       |
+| **5.3**           | [Module အဆုံးတွင်မေးခွန်းများ](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | အခြေခံအဆောက်အအုံလုံခြုံရေးအချက်များ      | [အဆောက်အအုံလုံခြုံရေးအဓိကအကြောင်းအရာများ](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | စနစ်များကိုခိုင်ခံ့စေရန်၊ patching၊ security hygiene၊ container security စသည်တို့ကိုလေ့လာပါ။                                  |
+| **6.2**           | အခြေခံအဆောက်အအုံလုံခြုံရေးအချက်များ      | [အဆောက်အအုံလုံခြုံရေးစွမ်းရည်များ](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | CSPM၊ container security စသည်တို့ကဲ့သို့သော အဆောက်အအုံလုံခြုံရေးအတွက်ကူညီနိုင်သော tools များကိုလေ့လာပါ။            |
+| **6.3**           | [Module အဆုံးတွင်မေးခွန်းများ](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | ဒေတာလုံခြုံရေးအခြေခံအချက်များ                | [ဒေတာလုံခြုံရေးအဓိကအကြောင်းအရာများ](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | ဒေတာအမျိုးအစားခွဲခြားခြင်းနှင့် retention အရေးကြီးမှုကိုလေ့လာပါ။                     |
+| **7.2**           | ဒေတာလုံခြုံရေးအခြေခံအချက်များ                | [ဒေတာလုံခြုံရေးစွမ်းရည်များ](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | ဒေတာလုံခြုံရေး tools များကိုလေ့လာပါ - DLP၊ inside risk management၊ data governance စသည်တို့။                          |
+| **7.3**           | [Module အဆုံးတွင်မေးခွန်းများ](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | AI လုံခြုံရေးအခြေခံအချက်များ                | [AI လုံခြုံရေးအဓိကအကြောင်းအရာများ](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | ရိုးရာလုံခြုံရေးနှင့် AI လုံခြုံရေးအကြားကွာခြားချက်များနှင့်တူညီချက်များကိုလေ့လာပါ။                 |
+| **8.2**           | AI လုံခြုံရေးအခြေခံအချက်များ                | [AI လုံခြုံရေးစွမ်းရည်များ](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | AI ကိုလုံခြုံစေရန်အသုံးပြုနိုင်သော tools များနှင့် control များကိုလေ့လာပါ။                         |
+| **8.3**           | AI လုံခြုံရေးအခြေခံအချက်များ                | [တာဝန်ရှိသော AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | တာဝန်ရှိသော AI ဆိုတာဘာလဲ၊ AI အထူးပျက်စီးမှုများနှင့်လုံခြုံရေးပညာရှင်များသိထားရမည့်အချက်များကိုလေ့လာပါ။                          |
+| **8.4**           | [Module အဆုံးတွင်မေးခွန်းများ](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+
+## 🎒 အခြားသင်တန်းများ 
+
+ကျွန်ုပ်တို့၏အဖွဲ့သည် အခြားသင်တန်းများကိုလည်းထုတ်လုပ်ပါသည်။ ကြည့်ရှုပါ:
+
+<!-- CO-OP TRANSLATOR OTHER COURSES START -->
+### LangChain
+[![LangChain4j အခြေခံသင်တန်း](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js အခြေခံသင်တန်း](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / Agents
+[![AZD အခြေခံသင်တန်း](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI အခြေခံသင်တန်း](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP အခြေခံသင်တန်း](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents အခြေခံသင်တန်း](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Generative AI Series
+[![Generative AI အခြေခံသင်တန်း](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Core Learning
+[![ML အခြေခံသင်တန်း](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science အခြေခံသင်တန်း](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI အခြေခံသင်တန်း](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cybersecurity အခြေခံသင်တန်း](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Web Dev အခြေခံသင်တန်း](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT အခြေခံသင်တန်း](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![XR Development အခြေခံသင်တန်း](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Copilot Series
+[![AI Paired Programming အတွက် Copilot](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET အတွက် Copilot](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot Adventure](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+<!-- CO-OP TRANSLATOR OTHER COURSES END -->
+
+## အကူအညီရယူခြင်း
+
+AI app များတည်ဆောက်ရာတွင် အခက်အခဲရှိပါက သို့မဟုတ်မေးခွန်းများရှိပါက MCP အကြောင်းအရာများကိုဆွေးနွေးရန် fellow learners နှင့်အတွေ့အကြုံရှိသော developer များနှင့်ပူးပေါင်းပါ။ မေးခွန်းများကိုကြိုဆိုပြီး အခမဲ့ knowledge မျှဝေသော community ဖြစ်ပါသည်။
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+Product feedback သို့မဟုတ် တည်ဆောက်ရာတွင် error များရှိပါက သွားရောက်ကြည့်ရှုပါ:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**အကြောင်းကြားချက်**:  
+ဤစာရွက်စာတမ်းကို AI ဘာသာပြန်ဝန်ဆောင်မှု [Co-op Translator](https://github.com/Azure/co-op-translator) ကို အသုံးပြု၍ ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် တိကျမှုအတွက် ကြိုးစားနေသော်လည်း အလိုအလျောက် ဘာသာပြန်မှုများတွင် အမှားများ သို့မဟုတ် မမှန်ကန်မှုများ ပါဝင်နိုင်သည်ကို သတိပြုပါ။ မူရင်းဘာသာစကားဖြင့် ရေးသားထားသော စာရွက်စာတမ်းကို အာဏာတရ အရင်းအမြစ်အဖြစ် သတ်မှတ်သင့်ပါသည်။ အရေးကြီးသော အချက်အလက်များအတွက် လူက ဘာသာပြန်မှုကို အသုံးပြုရန် အကြံပြုပါသည်။ ဤဘာသာပြန်မှုကို အသုံးပြုခြင်းမှ ဖြစ်ပေါ်လာသော အလွဲအမှားများ သို့မဟုတ် အနားလွဲမှုများအတွက် ကျွန်ုပ်တို့သည် တာဝန်မယူပါ။
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

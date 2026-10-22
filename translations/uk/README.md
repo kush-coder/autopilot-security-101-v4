@@ -1,0 +1,151 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "7d957a4948cfe27c91ec137f6a6e2988",
+  "translation_date": "2025-12-19T12:13:22+00:00",
+  "source_file": "README.md",
+  "language_code": "uk"
+}
+-->
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
+
+### 🌐 Підтримка багатомовності
+
+#### Підтримується через GitHub Action (автоматизовано та завжди актуально)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Арабська](../ar/README.md) | [Бенгальська](../bn/README.md) | [Болгарська](../bg/README.md) | [Бірманська (М'янма)](../my/README.md) | [Китайська (спрощена)](../zh/README.md) | [Китайська (традиційна, Гонконг)](../hk/README.md) | [Китайська (традиційна, Макао)](../mo/README.md) | [Китайська (традиційна, Тайвань)](../tw/README.md) | [Хорватська](../hr/README.md) | [Чеська](../cs/README.md) | [Данська](../da/README.md) | [Голландська](../nl/README.md) | [Естонська](../et/README.md) | [Фінська](../fi/README.md) | [Французька](../fr/README.md) | [Німецька](../de/README.md) | [Грецька](../el/README.md) | [Іврит](../he/README.md) | [Гінді](../hi/README.md) | [Угорська](../hu/README.md) | [Індонезійська](../id/README.md) | [Італійська](../it/README.md) | [Японська](../ja/README.md) | [Каннада](../kn/README.md) | [Корейська](../ko/README.md) | [Литовська](../lt/README.md) | [Малайська](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхі](../mr/README.md) | [Непальська](../ne/README.md) | [Нігерійський піджин](../pcm/README.md) | [Норвезька](../no/README.md) | [Перська (фарсі)](../fa/README.md) | [Польська](../pl/README.md) | [Португальська (Бразилія)](../br/README.md) | [Португальська (Португалія)](../pt/README.md) | [Пенджабі (Гурмукхі)](../pa/README.md) | [Румунська](../ro/README.md) | [Російська](../ru/README.md) | [Сербська (кирилиця)](../sr/README.md) | [Словацька](../sk/README.md) | [Словенська](../sl/README.md) | [Іспанська](../es/README.md) | [Суахілі](../sw/README.md) | [Шведська](../sv/README.md) | [Тагальська (філіппінська)](../tl/README.md) | [Тамільська](../ta/README.md) | [Телугу](../te/README.md) | [Тайська](../th/README.md) | [Турецька](../tr/README.md) | [Українська](./README.md) | [Урду](../ur/README.md) | [В'єтнамська](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+**Якщо ви хочете додати підтримку інших мов, список доступних мов знаходиться [тут](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
+
+#### Приєднуйтесь до нашої спільноти 
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+# 🚀 Кібербезпека для початківців – навчальна програма
+
+У цей швидкоплинний час впровадження технологій штучного інтелекту ще важливіше розуміти, як захищати ІТ-системи. Цей курс створений для того, щоб навчити вас основам кібербезпеки та допомогти розпочати навчання у цій сфері. Курс не залежить від конкретних постачальників і поділений на невеликі уроки, які займають близько 30-60 хвилин. Кожен урок містить невеликий тест і посилання на додаткові матеріали для глибшого вивчення теми.
+
+![Кібербезпека для початківців](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.uk.jpg)
+
+Що охоплює цей курс 📚
+
+- 🔐 Основи кібербезпеки, такі як триада CIA, відмінності між ризиками, загрозами тощо.
+- 🛡️ Розуміння, що таке контроль безпеки і які форми він може приймати.
+- 🌐 Розуміння концепції "нульової довіри" і її важливості в сучасній кібербезпеці.
+- 🔑 Основні поняття та теми в ідентифікації, мережах, операціях безпеки, інфраструктурі та захисті даних.
+- 🔧 Приклади інструментів, які використовуються для впровадження контролю безпеки.
+
+Що цей курс не охоплює 🙅‍♂️
+
+- 🚫 Як використовувати конкретні інструменти безпеки.
+- 🚫 Як "зламувати" або проводити атаки (red teaming/offensive security).
+- 🚫 Вивчення конкретних стандартів відповідності.
+
+[![Дивитися відео](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.uk.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+
+Після завершення цього курсу ви можете перейти до деяких модулів Microsoft Learn. Ми рекомендуємо продовжити навчання з [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
+
+Зрештою, ви можете розглянути можливість складання [іспиту SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+
+> 💁 Якщо у вас є відгуки або пропозиції щодо цього курсу чи контенту, якого, на вашу думку, не вистачає, ми будемо раді почути вас!
+
+## Огляд модулів 📝 
+| **Номер модуля** | **Назва модуля**                           | **Вивчені концепції**                  | **Цілі навчання**                                                                                          |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | Основи безпеки                           | [Триада CIA](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Дізнайтеся про конфіденційність, доступність та цілісність. Також про автентичність, незаперечність і конфіденційність. |
+| **1.2**           | Основи безпеки                           | [Поширені загрози кібербезпеки](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Дізнайтеся про поширені загрози кібербезпеки, з якими стикаються люди та організації.                             |
+| **1.3**           | Основи безпеки                           | [Розуміння управління ризиками](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Дізнайтеся про оцінку та розуміння ризиків – вплив/ймовірність і впровадження контролю.                                                                                                               | |
+| **1.4**           | Основи безпеки                           | [Практики безпеки та документація](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Дізнайтеся про різницю між політиками, процедурами, стандартами та регламентами/законами.                         |
+| **1.5**           | Основи безпеки                           | [Нульова довіра](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Дізнайтеся, що таке "нульова довіра" і як вона впливає на архітектуру. Що таке захист у глибину?                   |
+| **1.6**           | Основи безпеки                           | [Модель спільної відповідальності](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Що таке модель спільної відповідальності і як вона впливає на кібербезпеку?                  |
+| **1.7**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | Основи управління ідентифікацією та доступом | [Ключові концепції IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Дізнайтеся про принцип найменших привілеїв, розподіл обов'язків, як IAM підтримує "нульову довіру".               |
+| **2.2**           | Основи управління ідентифікацією та доступом | [Архітектура IAM з нульовою довірою](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Дізнайтеся, як ідентифікація стає новим периметром для сучасних ІТ-середовищ і які загрози вона зменшує.          |
+| **2.3**           | Основи управління ідентифікацією та доступом | [Можливості IAM](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Дізнайтеся про можливості та засоби контролю IAM для захисту ідентифікацій                                                  |
+| **2.4**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | Основи мережевої безпеки                 | [Ключові концепції мереж](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Дізнайтеся про концепції мереж (IP-адресація, номери портів, шифрування тощо).                                 |
+| **3.2**           | Основи мережевої безпеки                 | [Архітектура мереж з нульовою довірою](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Дізнайтеся, як мережі сприяють архітектурі E2E ZT і які загрози вони зменшують.                  |
+| **3.3**           | Основи мережевої безпеки                 | [Можливості мережевої безпеки](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Дізнайтеся про інструменти мережевої безпеки – фаєрволи, WAF, захист від DDoS тощо.                                    |
+| **3.4**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | Основи операцій безпеки                  | [Ключові концепції SecOps](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Дізнайтеся, чому операції безпеки важливі і чим вони відрізняються від звичайних ІТ-операцій.                  |
+| **4.2**           | Основи операцій безпеки                  | [Архітектура SecOps з нульовою довірою](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Дізнайтеся, як SecOps сприяє архітектурі E2E ZT і які загрози вони зменшують.                      |
+| **4.3**           | Основи операцій безпеки                  | [Можливості SecOps](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Дізнайтеся про інструменти SecOps – SIEM, XDR тощо.                                                                    |
+| **4.4**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | Основи безпеки додатків                  | [Ключові концепції AppSec](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Дізнайтеся про концепції AppSec, такі як безпека за дизайном, валідація введення тощо.                                    |
+| **5.2**           | Основи безпеки додатків                  | [Можливості AppSec](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Дізнайтеся про інструменти AppSec: інструменти безпеки для конвеєра, сканування коду, сканування секретів тощо.                       |
+| **5.3**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | Основи безпеки інфраструктури            | [Ключові концепції безпеки інфраструктури](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Дізнайтеся про посилення систем, оновлення, гігієну безпеки, безпеку контейнерів.                                  |
+| **6.2**           | Основи безпеки інфраструктури            | [Можливості безпеки інфраструктури](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Дізнайтеся про інструменти, які можуть допомогти з безпекою інфраструктури, наприклад, CSPM, безпека контейнерів тощо.            |
+| **6.3**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | Основи безпеки даних                     | [Ключові концепції безпеки даних](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Дізнайтеся про класифікацію та збереження даних і чому це важливо для організації.                     |
+| **7.2**           | Основи безпеки даних                     | [Можливості безпеки даних](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Дізнайтеся про інструменти безпеки даних – DLP, управління внутрішніми ризиками, управління даними тощо.                          |
+| **7.3**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | Основи безпеки штучного інтелекту        | [Ключові концепції безпеки ШІ](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Дізнайтеся про відмінності та схожості між традиційною безпекою та безпекою ШІ.                 |
+| **8.2**           | Основи безпеки штучного інтелекту        | [Можливості безпеки ШІ](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Дізнайтеся про інструменти безпеки ШІ та засоби контролю, які можна використовувати для захисту ШІ.                         |
+| **8.3**           | Основи безпеки штучного інтелекту        | [Відповідальний ШІ](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Дізнайтеся, що таке відповідальний ШІ та про специфічні ризики ШІ, які мають враховувати фахівці з безпеки.                          |
+| **8.4**           | [Підсумковий тест модуля](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+
+## 🎒 Інші курси 
+
+Наша команда створює й інші курси! Ознайомтеся:
+
+### LangChain
+[![LangChain4j для початківців](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js для початківців](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / Агенти
+[![AZD для початківців](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI для початківців](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP для початківців](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Агенти ШІ для початківців](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Серія про генеративний ШІ
+[![Генеративний ШІ для початківців](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Генеративний ШІ (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Генеративний ШІ (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Генеративний ШІ (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Основне навчання
+[![Машинне навчання для початківців](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Наука про дані для початківців](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![ШІ для початківців](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Кібербезпека для початківців](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Веб-розробка для початківців](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT для початківців](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![Розробка XR для початківців](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Серія про Copilot
+[![Copilot для парного програмування з ШІ](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![Copilot для C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Пригоди з Copilot](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+
+## Отримання допомоги
+
+Якщо ви застрягли або маєте запитання щодо створення додатків з ШІ, приєднуйтесь до обговорень з іншими учнями та досвідченими розробниками про MCP. Це підтримуюча спільнота, де вітаються запитання та вільно ділиться знаннями.
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+Якщо у вас є відгуки про продукт або виникають помилки під час створення, відвідайте:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Відмова від відповідальності**:  
+Цей документ було перекладено за допомогою сервісу автоматичного перекладу [Co-op Translator](https://github.com/Azure/co-op-translator). Хоча ми прагнемо до точності, зверніть увагу, що автоматичні переклади можуть містити помилки або неточності. Оригінальний документ на його рідній мові слід вважати авторитетним джерелом. Для критичної інформації рекомендується професійний людський переклад. Ми не несемо відповідальності за будь-які непорозуміння або неправильні тлумачення, що виникли внаслідок використання цього перекладу.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

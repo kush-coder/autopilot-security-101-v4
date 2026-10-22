@@ -1,0 +1,151 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "7d957a4948cfe27c91ec137f6a6e2988",
+  "translation_date": "2025-12-19T12:17:12+00:00",
+  "source_file": "README.md",
+  "language_code": "ta"
+}
+-->
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
+
+### 🌐 பல மொழி ஆதரவு
+
+#### GitHub Action மூலம் ஆதரவு (தானியங்கி மற்றும் எப்போதும் புதுப்பிக்கப்பட்டது)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](./README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+**மேலும் மொழிபெயர்ப்புகளை ஆதரிக்க விரும்பினால், ஆதரவு மொழிகள் [இங்கே](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md) பட்டியலிடப்பட்டுள்ளன.**
+
+#### எங்கள் சமூகத்தில் சேரவும் 
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+# 🚀 தொடக்கத்திற்கான சைபர் பாதுகாப்பு – ஒரு பாடத்திட்டம்
+
+AI தொழில்நுட்பத்தை விரைவாக ஏற்றுக்கொள்ளும் இந்த காலத்தில், IT அமைப்புகளை பாதுகாப்பாக வைத்திருக்க எப்படி என்பதைப் புரிந்துகொள்வது மிகவும் முக்கியமாகிறது. இந்த பாடநெறி உங்களுக்கு அடிப்படை சைபர் பாதுகாப்பு கருத்துக்களை கற்றுத்தர வடிவமைக்கப்பட்டுள்ளது, இது உங்கள் பாதுகாப்பு கற்றலைத் தொடங்க உதவும். இது எந்தவொரு விற்பனையாளருக்கும் சார்ந்ததல்ல மற்றும் சுமார் 30-60 நிமிடங்களில் முடிக்கக்கூடிய சிறிய பாடங்களாகப் பிரிக்கப்பட்டுள்ளது. ஒவ்வொரு பாடத்திலும் ஒரு சிறிய வினாடி வினா மற்றும் மேலும் ஆழமாக கற்க விரும்பினால் கூடுதல் வாசிப்புக்கான இணைப்புகள் உள்ளன.
+
+![தொடக்கத்திற்கான சைபர் பாதுகாப்பு](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.ta.jpg)
+
+இந்த பாடநெறி என்ன கற்றுத்தருகிறது 📚
+
+- 🔐 அடிப்படை சைபர் பாதுகாப்பு கருத்துக்கள், உதாரணமாக CIA முக்கோணம், அபாயங்கள் மற்றும் அச்சுறுத்தல்களின் வேறுபாடுகள்.
+- 🛡️ பாதுகாப்பு கட்டுப்பாடு என்றால் என்ன மற்றும் அவை எந்த வடிவங்களில் உள்ளன என்பதைப் புரிந்துகொள்வது.
+- 🌐 ஜீரோ டிரஸ்ட் என்றால் என்ன மற்றும் இது நவீன சைபர் பாதுகாப்பில் ஏன் முக்கியம் என்பதைப் புரிந்துகொள்வது.
+- 🔑 அடையாளம், நெட்வொர்க், பாதுகாப்பு செயல்பாடுகள், உள்கட்டமைப்பு மற்றும் தரவுப் பாதுகாப்பு ஆகியவற்றில் முக்கிய கருத்துக்கள் மற்றும் கருப்பொருள்களைப் புரிந்துகொள்வது.
+- 🔧 பாதுகாப்பு கட்டுப்பாடுகளை செயல்படுத்த பயன்படுத்தப்படும் கருவிகளின் சில உதாரணங்களை வழங்குவது.
+
+இந்த பாடநெறி என்ன கற்றுத்தராது 🙅‍♂️
+
+- 🚫 குறிப்பிட்ட பாதுகாப்பு கருவிகளை எப்படி பயன்படுத்துவது.
+- 🚫 "ஹேக்" செய்வது அல்லது ரெட் டீமிங்/தாக்குதல் பாதுகாப்பு செய்வது.
+- 🚫 குறிப்பிட்ட இணக்கத்தன்மை தரநிலைகளைப் பற்றி கற்றல்.
+
+[![வீடியோவைப் பாருங்கள்](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.ta.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+
+இந்த பாடநெறியை முடித்த பிறகு, எங்கள் Microsoft Learn தொகுதிகளிலிருந்து சிலவற்றைத் தொடரலாம். உங்கள் கற்றலை [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) மூலம் தொடர பரிந்துரைக்கிறோம்.
+
+இறுதியில், நீங்கள் [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) எழுத பரிசீலிக்கலாம்.
+
+> 💁 இந்த பாடநெறி மற்றும் எங்கள் உள்ளடக்கத்தில் ஏதேனும் கருத்துக்கள் அல்லது பரிந்துரைகள் இருந்தால், உங்கள் கருத்துகளை கேட்க விரும்புகிறோம்!
+
+## தொகுதிகள் மேற்பார்வை 📝 
+| **தொகுதி எண்** | **தொகுதி பெயர்**                           | **கற்றல் கருத்துக்கள்**                  | **கற்றல் நோக்கங்கள்**                                                                                          |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [CIA முக்கோணம்](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | ரகசியம், கிடைக்கும் தன்மை மற்றும் ஒருமைப்பாடு பற்றி கற்றுக்கொள்ளுங்கள். மேலும் உண்மைத்தன்மை, மறுப்பு மற்றும் தனியுரிமை பற்றியும். |
+| **1.2**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [சாதாரண சைபர் பாதுகாப்பு அச்சுறுத்தல்கள்](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | தனிநபர்கள் மற்றும் நிறுவனங்களை எதிர்கொள்ளும் சாதாரண சைபர் பாதுகாப்பு அச்சுறுத்தல்கள் பற்றி கற்றுக்கொள்ளுங்கள்.                             |
+| **1.3**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [அபாய மேலாண்மையைப் புரிந்துகொள்வது](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | அபாயத்தை மதிப்பீடு செய்து புரிந்துகொள்வது – தாக்கம்/சாத்தியக்கூறு மற்றும் கட்டுப்பாடுகளை செயல்படுத்துவது பற்றி கற்றுக்கொள்ளுங்கள்.                                                                                                               | |
+| **1.4**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [பாதுகாப்பு நடைமுறைகள் மற்றும் ஆவணங்கள்](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | கொள்கைகள், நடைமுறைகள், தரநிலைகள் மற்றும் விதிமுறைகள்/சட்டங்கள் ஆகியவற்றின் வேறுபாடுகளைப் பற்றி கற்றுக்கொள்ளுங்கள்.                         |
+| **1.5**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [ஜீரோ டிரஸ்ட்](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | ஜீரோ டிரஸ்ட் என்றால் என்ன மற்றும் இது கட்டமைப்பை எப்படி பாதிக்கிறது என்பதைப் பற்றி கற்றுக்கொள்ளுங்கள். பாதுகாப்பு ஆழத்தில் என்றால் என்ன?                   |
+| **1.6**           | அடிப்படை பாதுகாப்பு கருத்துக்கள்                   | [பகிரப்பட்ட பொறுப்புத் மாதிரி](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | பகிரப்பட்ட பொறுப்புத் மாதிரி என்றால் என்ன மற்றும் இது சைபர் பாதுகாப்பை எப்படி பாதிக்கிறது என்பதைப் பற்றி கற்றுக்கொள்ளுங்கள்.                  |
+| **1.7**           | [தொகுதி முடிவின் வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | அடையாளம் மற்றும் அணுகல் மேலாண்மை அடிப்படைகள் | [IAM முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | குறைந்த உரிமையின் கொள்கை, கடமைகளின் பிரிப்பு, IAM ஜீரோ டிரஸ்டை எப்படி ஆதரிக்கிறது என்பதைப் பற்றி கற்றுக்கொள்ளுங்கள்.               |
+| **2.2**           | அடையாளம் மற்றும் அணுகல் மேலாண்மை அடிப்படைகள் | [IAM ஜீரோ டிரஸ்ட் கட்டமைப்பு](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | அடையாளம் நவீன IT சூழல்களுக்கு புதிய எல்லையாக உள்ளது மற்றும் இது தடுக்கும் அச்சுறுத்தல்களைப் பற்றி கற்றுக்கொள்ளுங்கள்.          |
+| **2.3**           | அடையாளம் மற்றும் அணுகல் மேலாண்மை அடிப்படைகள் | [IAM திறன்கள்](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | அடையாளங்களை பாதுகாக்க IAM திறன்கள் மற்றும் கட்டுப்பாடுகளைப் பற்றி கற்றுக்கொள்ளுங்கள்.                                                  |
+| **2.4**           | [தொகுதி முடிவின் வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | நெட்வொர்க் பாதுகாப்பு அடிப்படைகள்             | [நெட்வொர்கிங் முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | நெட்வொர்கிங் கருத்துக்கள் (IP முகவரிகள், போர்ட் எண்கள், குறியாக்கம், போன்றவை) பற்றி கற்றுக்கொள்ளுங்கள்.                                 |
+| **3.2**           | நெட்வொர்க் பாதுகாப்பு அடிப்படைகள்             | [நெட்வொர்கிங் ஜீரோ டிரஸ்ட் கட்டமைப்பு](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | நெட்வொர்கிங் E2E ZT கட்டமைப்பிற்கு எப்படி பங்களிக்கிறது மற்றும் இது தடுக்கும் அச்சுறுத்தல்களைப் பற்றி கற்றுக்கொள்ளுங்கள்.                  |
+| **3.3**           | நெட்வொர்க் பாதுகாப்பு அடிப்படைகள்             | [நெட்வொர்க் பாதுகாப்பு திறன்கள்](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | நெட்வொர்க் பாதுகாப்பு கருவிகள் – ஃபயர்வால்கள், WAF, DDoS பாதுகாப்பு, போன்றவை பற்றி கற்றுக்கொள்ளுங்கள்.                                    |
+| **3.4**           | [தொகுதி முடிவின் வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | பாதுகாப்பு செயல்பாடுகள் அடிப்படைகள்          | [SecOps முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | பாதுகாப்பு செயல்பாடுகள் ஏன் முக்கியம் மற்றும் இது சாதாரண IT செயல்பாட்டு குழுக்களிலிருந்து எப்படி மாறுபடுகிறது என்பதைப் பற்றி கற்றுக்கொள்ளுங்கள்.                  |
+| **4.2**           | பாதுகாப்பு செயல்பாடுகள் அடிப்படைகள்          | [SecOps ஜீரோ டிரஸ்ட் கட்டமைப்பு](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | SecOps E2E ZT கட்டமைப்பிற்கு எப்படி பங்களிக்கிறது மற்றும் இது தடுக்கும் அச்சுறுத்தல்களைப் பற்றி கற்றுக்கொள்ளுங்கள்.                      |
+| **4.3**           | பாதுகாப்பு செயல்பாடுகள் அடிப்படைகள்          | [SecOps திறன்கள்](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | SecOps கருவிகள் – SIEM, XDR, போன்றவை பற்றி கற்றுக்கொள்ளுங்கள்.                                                                    |
+| **4.4**           | [தொகுதி முடிவின் வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | பயன்பாட்டு பாதுகாப்பு அடிப்படைகள்         | [AppSec முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | பாதுகாப்பான வடிவமைப்பு, உள்ளீட்டு சரிபார்ப்பு போன்ற AppSec கருத்துக்களைப் பற்றி அறிக.                                    |
+| **5.2**           | பயன்பாட்டு பாதுகாப்பு அடிப்படைகள்         | [AppSec திறன்கள்](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | AppSec கருவிகள் பற்றி அறிக: பைப்‌லைன் பாதுகாப்பு கருவிகள், குறியீடு ஸ்கேனிங், ரகசிய ஸ்கேனிங் போன்றவை.                       |
+| **5.3**           | [மொடியூல் முடிவு வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | உள்கட்டமைப்பு பாதுகாப்பு அடிப்படைகள்      | [உள்கட்டமைப்பு பாதுகாப்பு முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | அமைப்புகளை வலுப்படுத்துதல், பாச்சிங், பாதுகாப்பு பழக்கவழக்கம், கண்டெய்னர் பாதுகாப்பு பற்றி அறிக.                                  |
+| **6.2**           | உள்கட்டமைப்பு பாதுகாப்பு அடிப்படைகள்      | [உள்கட்டமைப்பு பாதுகாப்பு திறன்கள்](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | உள்கட்டமைப்பு பாதுகாப்புக்கு உதவக்கூடிய கருவிகள் பற்றி அறிக, உதாரணமாக CSPM, கண்டெய்னர் பாதுகாப்பு போன்றவை.            |
+| **6.3**           | [மொடியூல் முடிவு வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | தரவுப் பாதுகாப்பு அடிப்படைகள்                | [தரவுப் பாதுகாப்பு முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | தரவின் வகைப்படுத்தல் மற்றும் பாதுகாப்பு முக்கியத்துவம் பற்றி அறிக.                     |
+| **7.2**           | தரவுப் பாதுகாப்பு அடிப்படைகள்                | [தரவுப் பாதுகாப்பு திறன்கள்](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | தரவுப் பாதுகாப்பு கருவிகள் பற்றி அறிக – DLP, உள்ளக ஆபத்து மேலாண்மை, தரவுக் கவர்னன்ஸ் போன்றவை.                          |
+| **7.3**           | [மொடியூல் முடிவு வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | AI பாதுகாப்பு அடிப்படைகள்                | [AI பாதுகாப்பு முக்கிய கருத்துக்கள்](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | பாரம்பரிய பாதுகாப்பு மற்றும் AI பாதுகாப்பு இடையேயான வேறுபாடுகள் மற்றும் ஒற்றுமைகள் பற்றி அறிக.                 |
+| **8.2**           | AI பாதுகாப்பு அடிப்படைகள்                | [AI பாதுகாப்பு திறன்கள்](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | AI பாதுகாப்பு கருவிகள் மற்றும் AI பாதுகாப்பை உறுதிப்படுத்த பயன்படுத்தக்கூடிய கட்டுப்பாடுகள் பற்றி அறிக.                         |
+| **8.3**           | AI பாதுகாப்பு அடிப்படைகள்                | [பொறுப்பான AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | பொறுப்பான AI என்றால் என்ன மற்றும் பாதுகாப்பு நிபுணர்கள் கவனிக்க வேண்டிய AI தொடர்பான பாதிப்புகள் பற்றி அறிக.                          |
+| **8.4**           | [மொடியூல் முடிவு வினாடி வினா](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+
+## 🎒 பிற பாடங்கள் 
+
+எங்கள் குழு பிற பாடங்களையும் உருவாக்குகிறது! பாருங்கள்:
+
+### LangChain
+[![துவக்கத்திற்கான LangChain4j](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![துவக்கத்திற்கான LangChain.js](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / Agents
+[![துவக்கத்திற்கான AZD](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான Edge AI](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான MCP](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான AI Agents](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Generative AI Series
+[![துவக்கத்திற்கான Generative AI](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Core Learning
+[![துவக்கத்திற்கான ML](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான தரவியல் அறிவியல்](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான AI](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான சைபர் பாதுகாப்பு](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![துவக்கத்திற்கான வலை மேம்பாடு](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான IoT](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![துவக்கத்திற்கான XR மேம்பாடு](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Copilot Series
+[![AI இணை நிரலாக்கத்திற்கான Copilot](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET க்கான Copilot](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot Adventure](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+
+## உதவி பெறுதல்
+
+AI பயன்பாடுகளை உருவாக்குவதில் சிக்கலாக இருந்தால் அல்லது கேள்விகள் இருந்தால், MCP பற்றிய விவாதங்களில் fellow learners மற்றும் அனுபவம் வாய்ந்த டெவலப்பர்களுடன் சேருங்கள். இது ஒரு ஆதரவான சமூகமாகும், கேள்விகள் வரவேற்கப்படுகின்றன மற்றும் அறிவு இலவசமாக பகிரப்படுகிறது.
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+தயாரிப்புப் பின்னூட்டம் அல்லது கட்டமைப்பில் பிழைகள் இருந்தால், இங்கே பாருங்கள்:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**புறக்குறிப்பு**:  
+இந்த ஆவணம் AI மொழிபெயர்ப்பு சேவை [Co-op Translator](https://github.com/Azure/co-op-translator) பயன்படுத்தி மொழிபெயர்க்கப்பட்டுள்ளது. நாங்கள் துல்லியத்திற்காக முயற்சிக்கிறோம், ஆனால் தானியக்க மொழிபெயர்ப்புகளில் பிழைகள் அல்லது தவறுகள் இருக்கக்கூடும் என்பதை கவனத்தில் கொள்ளவும். அதன் தாய்மொழியில் உள்ள மூல ஆவணம் அதிகாரப்பூர்வ ஆதாரமாக கருதப்பட வேண்டும். முக்கியமான தகவல்களுக்கு, தொழில்முறை மனித மொழிபெயர்ப்பு பரிந்துரைக்கப்படுகிறது. இந்த மொழிபெயர்ப்பைப் பயன்படுத்துவதால் ஏற்படும் எந்த தவறான புரிதல்கள் அல்லது தவறான விளக்கங்களுக்கு நாங்கள் பொறுப்பல்ல.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,0 +1,151 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "7d957a4948cfe27c91ec137f6a6e2988",
+  "translation_date": "2025-12-19T11:22:30+00:00",
+  "source_file": "README.md",
+  "language_code": "ne"
+}
+-->
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
+
+### 🌐 बहुभाषिक समर्थन
+
+#### GitHub Action मार्फत समर्थित (स्वचालित र सधैं अद्यावधिक)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[अरबी](../ar/README.md) | [बंगाली](../bn/README.md) | [बुल्गेरियन](../bg/README.md) | [बर्मेली (म्यानमार)](../my/README.md) | [चिनियाँ (सरलीकृत)](../zh/README.md) | [चिनियाँ (पारम्परिक, हङकङ)](../hk/README.md) | [चिनियाँ (पारम्परिक, मकाउ)](../mo/README.md) | [चिनियाँ (पारम्परिक, ताइवान)](../tw/README.md) | [क्रोएसियन](../hr/README.md) | [चेक](../cs/README.md) | [डेनिश](../da/README.md) | [डच](../nl/README.md) | [एस्टोनियन](../et/README.md) | [फिनिश](../fi/README.md) | [फ्रान्सेली](../fr/README.md) | [जर्मन](../de/README.md) | [ग्रीक](../el/README.md) | [हिब्रू](../he/README.md) | [हिन्दी](../hi/README.md) | [हंगेरीयन](../hu/README.md) | [इन्डोनेसियन](../id/README.md) | [इटालियन](../it/README.md) | [जापानी](../ja/README.md) | [कन्नड](../kn/README.md) | [कोरियन](../ko/README.md) | [लिथुआनियन](../lt/README.md) | [मलय](../ms/README.md) | [मलयालम](../ml/README.md) | [मराठी](../mr/README.md) | [नेपाली](./README.md) | [नाइजेरियन पिड्जिन](../pcm/README.md) | [नर्वेजियन](../no/README.md) | [फारसी (फारसी)](../fa/README.md) | [पोलिश](../pl/README.md) | [पोर्चुगिज (ब्राजिल)](../br/README.md) | [पोर्चुगिज (पोर्चुगल)](../pt/README.md) | [पञ्जाबी (गुरमुखी)](../pa/README.md) | [रोमानियन](../ro/README.md) | [रुसी](../ru/README.md) | [सर्बियन (सिरिलिक)](../sr/README.md) | [स्लोभाक](../sk/README.md) | [स्लोभेनियन](../sl/README.md) | [स्पेनिश](../es/README.md) | [स्वाहिली](../sw/README.md) | [स्विडिश](../sv/README.md) | [टागालोग (फिलिपिनो)](../tl/README.md) | [तमिल](../ta/README.md) | [तेलुगु](../te/README.md) | [थाई](../th/README.md) | [टर्किश](../tr/README.md) | [युक्रेनी](../uk/README.md) | [उर्दू](../ur/README.md) | [भियतनामी](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+**यदि तपाईं थप अनुवाद भाषाहरू चाहनुहुन्छ भने, यहाँ सूचीबद्ध छन् [यहाँ](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
+
+#### हाम्रो समुदायमा सामेल हुनुहोस् 
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+# 🚀 सुरुवातका लागि साइबर सुरक्षा – एक पाठ्यक्रम
+
+यो तीव्र रूपमा परिवर्तन भइरहेको एआई प्रविधि अपनाउने युगमा, आईटी प्रणालीहरू कसरी सुरक्षित गर्ने भन्ने बुझ्नु अझ महत्त्वपूर्ण छ। यो पाठ्यक्रम तपाईंलाई सुरक्षा सिकाइ सुरु गर्न आधारभूत साइबर सुरक्षा अवधारणाहरू सिकाउन डिजाइन गरिएको हो। यो विक्रेता-निरपेक्ष छ र साना पाठहरूमा विभाजित छ, जसलाई पूरा गर्न करिब ३०-६० मिनेट लाग्छ। प्रत्येक पाठमा सानो प्रश्नोत्तर र थप अध्ययन गर्न चाहनेहरूका लागि लिंकहरू समावेश छन्।
+
+![सुरुवातका लागि साइबर सुरक्षा](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.ne.jpg)
+
+यो पाठ्यक्रमले के समेट्छ 📚
+
+- 🔐 आधारभूत साइबर सुरक्षा अवधारणाहरू जस्तै CIA त्रिकोण, जोखिम, खतरा आदि बीचको भिन्नता।
+- 🛡️ सुरक्षा नियन्त्रण के हो र तिनीहरूले कुन रूप लिन्छन् भन्ने बुझ्ने।
+- 🌐 शून्य विश्वास के हो र यो आधुनिक साइबर सुरक्षामा किन महत्त्वपूर्ण छ भन्ने बुझ्ने।
+- 🔑 पहिचान, नेटवर्किङ, सुरक्षा सञ्चालन, पूर्वाधार र डाटा सुरक्षाका प्रमुख अवधारणाहरू र विषयवस्तुहरू बुझ्ने।
+- 🔧 सुरक्षा नियन्त्रण कार्यान्वयन गर्न प्रयोग गरिने केही उपकरणहरूको उदाहरण दिने।
+
+यो पाठ्यक्रमले के समेट्दैन 🙅‍♂️
+
+- 🚫 विशिष्ट सुरक्षा उपकरणहरू कसरी प्रयोग गर्ने।
+- 🚫 कसरी "ह्याक" गर्ने वा रेड टिमिङ/आक्रामक सुरक्षा गर्ने।
+- 🚫 विशिष्ट अनुपालन मापदण्डहरू सिक्ने।
+
+[![भिडियो हेर्नुहोस्](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.ne.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+
+यो पाठ्यक्रम समाप्त गरेपछि, तपाईं हाम्रो Microsoft Learn मोड्युलहरूमा जान सक्नुहुन्छ। हामी तपाईंलाई [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) बाट सिकाइ जारी राख्न सिफारिस गर्छौं। 
+
+अन्ततः, तपाईं [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) दिने विचार गर्न सक्नुहुन्छ।
+
+> 💁 यदि तपाईंलाई यो पाठ्यक्रममा कुनै प्रतिक्रिया वा सुझाव छ भने, हामी तपाईंको विचार सुन्न चाहन्छौं!
+
+## मोड्युलहरूको अवलोकन 📝 
+| **मोड्युल नम्बर** | **मोड्युल नाम**                           | **सिकाइ अवधारणाहरू**                  | **सिकाइ उद्देश्यहरू**                                                                                          |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | आधारभूत सुरक्षा अवधारणाहरू                   | [CIA त्रिकोण](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | गोपनीयता, उपलब्धता र अखण्डता बारे जान्नुहोस्। साथै प्रामाणिकता, अस्वीकृत नगर्ने र गोपनीयता। |
+| **1.2**           | आधारभूत सुरक्षा अवधारणाहरू                   | [सामान्य साइबर सुरक्षा खतरा](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | व्यक्तिहरू र संगठनहरूलाई सामना गर्ने सामान्य साइबर सुरक्षा खतराहरू बारे जान्नुहोस्।                             |
+| **1.3**           | आधारभूत सुरक्षा अवधारणाहरू                   | [जोखिम व्यवस्थापन बुझ्ने](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | जोखिमको मूल्याङ्कन र बुझाइ – प्रभाव/सम्भावना र नियन्त्रण कार्यान्वयन गर्ने बारे जान्नुहोस्।                                                                                                               | |
+| **1.4**           | आधारभूत सुरक्षा अवधारणाहरू                   | [सुरक्षा अभ्यास र कागजात](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | नीतिहरू, प्रक्रियाहरू, मापदण्डहरू र नियम/कानूनहरू बीचको भिन्नता बारे जान्नुहोस्।                         |
+| **1.5**           | आधारभूत सुरक्षा अवधारणाहरू                   | [शून्य विश्वास](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | शून्य विश्वास के हो र यसले वास्तुकलामा कसरी प्रभाव पार्छ? गहिराइमा रक्षा के हो?                   |
+| **1.6**           | आधारभूत सुरक्षा अवधारणाहरू                   | [साझा जिम्मेवारी मोडेल](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | साझा जिम्मेवारी मोडेल के हो र यसले साइबर सुरक्षामा कसरी प्रभाव पार्छ?                  |
+| **1.7**           | [मोड्युलको अन्त्यमा प्रश्नोत्तर](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | पहिचान र पहुँच व्यवस्थापन आधारभूत | [IAM प्रमुख अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | न्यूनतम विशेषाधिकारको सिद्धान्त, कर्तव्यको विभाजन, IAM ले शून्य विश्वासलाई कसरी समर्थन गर्छ भन्ने बारे जान्नुहोस्।               |
+| **2.2**           | पहिचान र पहुँच व्यवस्थापन आधारभूत | [IAM शून्य विश्वास वास्तुकला](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | आधुनिक आईटी वातावरणहरूको लागि पहिचान नयाँ परिधि हो र यसले कम गर्ने खतराहरू।          |
+| **2.3**           | पहिचान र पहुँच व्यवस्थापन आधारभूत | [IAM क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | पहिचानहरू सुरक्षित गर्न IAM क्षमताहरू र नियन्त्रणहरू बारे जान्नुहोस्।                                                  |
+| **2.4**           | [मोड्युलको अन्त्यमा प्रश्नोत्तर](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | नेटवर्क सुरक्षा आधारभूत             | [नेटवर्किङ प्रमुख अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | नेटवर्किङ अवधारणाहरू (IP ठेगाना, पोर्ट नम्बर, इन्क्रिप्सन आदि) बारे जान्नुहोस्।                                 |
+| **3.2**           | नेटवर्क सुरक्षा आधारभूत             | [नेटवर्किङ शून्य विश्वास वास्तुकला](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | नेटवर्किङले E2E ZT वास्तुकलामा कसरी योगदान पुर्‍याउँछ र यसले कम गर्ने खतराहरू।                  |
+| **3.3**           | नेटवर्क सुरक्षा आधारभूत             | [नेटवर्क सुरक्षा क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | नेटवर्क सुरक्षा उपकरणहरू – फायरवाल, WAF, DDoS सुरक्षा आदि बारे जान्नुहोस्।                                    |
+| **3.4**           | [मोड्युलको अन्त्यमा प्रश्नोत्तर](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | सुरक्षा सञ्चालन आधारभूत          | [SecOps प्रमुख अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | सुरक्षा सञ्चालन किन महत्त्वपूर्ण छ र यो सामान्य आईटी अप्स टोलीहरूबाट कसरी फरक छ।                  |
+| **4.2**           | सुरक्षा सञ्चालन आधारभूत          | [SecOps शून्य विश्वास वास्तुकला](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | SecOps ले E2E ZT वास्तुकलामा कसरी योगदान पुर्‍याउँछ र यसले कम गर्ने खतराहरू।                      |
+| **4.3**           | सुरक्षा सञ्चालन आधारभूत          | [SecOps क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | SecOps उपकरणहरू – SIEM, XDR आदि बारे जान्नुहोस्।                                                                    |
+| **4.4**           | [मोड्युलको अन्त्यमा प्रश्नोत्तर](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | एप्लिकेशन सुरक्षा आधारभूत तत्वहरू         | [AppSec मुख्य अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | सुरक्षित डिजाइन, इनपुट मान्यकरण आदि जस्ता AppSec अवधारणाहरूको बारेमा जान्नुहोस्।                                    |
+| **5.2**           | एप्लिकेशन सुरक्षा आधारभूत तत्वहरू         | [AppSec क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | AppSec उपकरणहरू जस्तै पाइपलाइन सुरक्षा उपकरणहरू, कोड स्क्यानिङ, गोप्य स्क्यानिङ आदि बारेमा जान्नुहोस्।                       |
+| **5.3**           | [मोड्युलको अन्त्यमा क्विज](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | पूर्वाधार सुरक्षा आधारभूत तत्वहरू      | [पूर्वाधार सुरक्षा मुख्य अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | प्रणालीहरूलाई बलियो बनाउने, प्याचिङ, सुरक्षा स्वच्छता, कन्टेनर सुरक्षा जस्ता विषयहरूबारे जान्नुहोस्।                                  |
+| **6.2**           | पूर्वाधार सुरक्षा आधारभूत तत्वहरू      | [पूर्वाधार सुरक्षा क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | पूर्वाधार सुरक्षामा सहयोग गर्ने उपकरणहरू जस्तै CSPM, कन्टेनर सुरक्षा आदि बारेमा जान्नुहोस्।            |
+| **6.3**           | [मोड्युलको अन्त्यमा क्विज](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | डाटा सुरक्षा आधारभूत तत्वहरू                | [डाटा सुरक्षा मुख्य अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | डाटा वर्गीकरण र संरक्षणको महत्त्व र यसको संगठनका लागि किन आवश्यक छ भन्ने जान्नुहोस्।                     |
+| **7.2**           | डाटा सुरक्षा आधारभूत तत्वहरू                | [डाटा सुरक्षा क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | डाटा सुरक्षा उपकरणहरू – DLP, भित्री जोखिम व्यवस्थापन, डाटा शासन आदि बारेमा जान्नुहोस्।                          |
+| **7.3**           | [मोड्युलको अन्त्यमा क्विज](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | एआई सुरक्षा आधारभूत तत्वहरू                | [एआई सुरक्षा मुख्य अवधारणाहरू](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | परम्परागत सुरक्षा र एआई सुरक्षाबीचको भिन्नता र समानताहरूको बारेमा जान्नुहोस्।                 |
+| **8.2**           | एआई सुरक्षा आधारभूत तत्वहरू                | [एआई सुरक्षा क्षमताहरू](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | एआई सुरक्षा उपकरणहरू र एआईलाई सुरक्षित गर्न प्रयोग गर्न सकिने नियन्त्रणहरूको बारेमा जान्नुहोस्।                         |
+| **8.3**           | एआई सुरक्षा आधारभूत तत्वहरू                | [उत्तरदायी एआई](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | उत्तरदायी एआई के हो र सुरक्षा पेशेवरहरूले जान्नुपर्ने एआईसँग सम्बन्धित हानिहरूको बारेमा जान्नुहोस्।                          |
+| **8.4**           | [मोड्युलको अन्त्यमा क्विज](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+
+## 🎒 अन्य कोर्सहरू 
+
+हाम्रो टोलीले अन्य कोर्सहरू पनि उत्पादन गर्दछ! हेर्नुहोस्:
+
+### LangChain
+[![LangChain4j सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / एजेन्टहरू
+[![AZD सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![एज एआई सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![एआई एजेन्टहरू सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### जेनेरेटिभ एआई श्रृंखला
+[![जेनेरेटिभ एआई सुरुवातकर्ताहरूका लागि](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![जेनेरेटिभ एआई (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![जेनेरेटिभ एआई (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![जेनेरेटिभ एआई (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### कोर सिकाइ
+[![सुरुवातकर्ताहरूका लागि एमएल](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![सुरुवातकर्ताहरूका लागि डाटा विज्ञान](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![सुरुवातकर्ताहरूका लागि एआई](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![सुरुवातकर्ताहरूका लागि साइबर सुरक्षा](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![सुरुवातकर्ताहरूका लागि वेब विकास](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![सुरुवातकर्ताहरूका लागि IoT](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![सुरुवातकर्ताहरूका लागि XR विकास](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### कोपाइलट श्रृंखला
+[![एआई जोडी प्रोग्रामिङका लागि कोपाइलट](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET का लागि कोपाइलट](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![कोपाइलट एडभेन्चर](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+
+## सहयोग प्राप्त गर्नुहोस्
+
+यदि तपाईं अड्किनुहुन्छ वा एआई एप्स निर्माणको बारेमा कुनै प्रश्न छ भने, अन्य सिक्नेहरू र अनुभवी विकासकर्ताहरूसँग छलफलमा सामेल हुनुहोस्। यो एक सहयोगी समुदाय हो जहाँ प्रश्नहरूलाई स्वागत गरिन्छ र ज्ञान स्वतन्त्र रूपमा साझा गरिन्छ।
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+यदि तपाईंलाई उत्पादन प्रतिक्रिया दिनु छ वा निर्माण गर्दा त्रुटिहरू छन् भने, यहाँ जानुहोस्:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**अस्वीकरण**:  
+यो दस्तावेज AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) प्रयोग गरेर अनुवाद गरिएको छ। हामी शुद्धताको लागि प्रयास गर्छौं, तर कृपया ध्यान दिनुहोस् कि स्वचालित अनुवादमा त्रुटिहरू वा अशुद्धताहरू हुन सक्छ। यसको मूल भाषा मा रहेको मूल दस्तावेजलाई आधिकारिक स्रोत मानिनुपर्छ। महत्वपूर्ण जानकारीको लागि, व्यावसायिक मानव अनुवाद सिफारिस गरिन्छ। यस अनुवादको प्रयोगबाट उत्पन्न हुने कुनै पनि गलतफहमी वा गलत व्याख्याको लागि हामी जिम्मेवार हुनेछैनौं।
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
